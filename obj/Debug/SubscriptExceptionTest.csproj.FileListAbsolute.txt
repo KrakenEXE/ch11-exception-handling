@@ -1,0 +1,12 @@
+C:\Users\teacher\Desktop\Homework\Chapter 11\ChElevenExercises\SubscriptExceptionTest\bin\Debug\SubscriptExceptionTest.exe.config
+C:\Users\teacher\Desktop\Homework\Chapter 11\ChElevenExercises\SubscriptExceptionTest\bin\Debug\SubscriptExceptionTest.exe
+C:\Users\teacher\Desktop\Homework\Chapter 11\ChElevenExercises\SubscriptExceptionTest\bin\Debug\SubscriptExceptionTest.pdb
+C:\Users\teacher\Desktop\Homework\Chapter 11\ChElevenExercises\SubscriptExceptionTest\obj\Debug\SubscriptExceptionTest.exe
+C:\Users\teacher\Desktop\Homework\Chapter 11\ChElevenExercises\SubscriptExceptionTest\obj\Debug\SubscriptExceptionTest.pdb
+C:\Users\teacher\Desktop\Homework\Chapter 11\ChElevenExercises\SubscriptExceptionTest\obj\Debug\SubscriptExceptionTest.csprojResolveAssemblyReference.cache
+D:\csharp\Chapter 11\ChElevenExercises\SubscriptExceptionTest\bin\Debug\SubscriptExceptionTest.exe.config
+D:\csharp\Chapter 11\ChElevenExercises\SubscriptExceptionTest\obj\Debug\SubscriptExceptionTest.exe
+D:\csharp\Chapter 11\ChElevenExercises\SubscriptExceptionTest\obj\Debug\SubscriptExceptionTest.pdb
+D:\csharp\Chapter 11\ChElevenExercises\SubscriptExceptionTest\bin\Debug\SubscriptExceptionTest.exe
+D:\csharp\Chapter 11\ChElevenExercises\SubscriptExceptionTest\bin\Debug\SubscriptExceptionTest.pdb
+D:\csharp\Chapter 11\ChElevenExercises\SubscriptExceptionTest\obj\Debug\SubscriptExceptionTest.csprojResolveAssemblyReference.cache
